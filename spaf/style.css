@@ -1,0 +1,55 @@
+html {
+    font-size: 125%;
+}
+body{
+    background-color: rgb(243, 232, 209);
+    line-height: 1.5;
+    color: rgb(64, 4, 4);
+    text-align: center;
+}
+header{
+    padding: 3em 1em 2em 1em;
+    text-align: center;
+    background-color: rgb(255 255 255 / .5);
+}
+h1 {
+    font-family: "Cinzel", serif;
+    color: rgb(199, 135, 6);
+}
+h2 {
+    font-family: "Cinzel", serif;
+    color: rgb(138, 6, 6);
+}
+h3 {
+    font-family: "Cinzel", serif;
+    color: rgb(189, 67, 11);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+li {
+    text-align: left
+    display: inline;
+    margin: 0 15px;
+}
+nav {
+    text-align: center;
+}
+.cinzel-title-text {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+a:any-link {
+    color: rgb(23, 120, 184);
+}
+a:hover {
+    color: rgb(101, 13, 75);
+}
